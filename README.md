@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PedroVolpato, I have a bachelor's degree in Computer Science and am currently studying front-end development. I am seeking my first job opportunity.
-- 👀 I’m interested in Front-end development.
-- 🌱 I’m currently learning Kotlin, JS, HTML, CSS, React.
+- 👋 Hi, I’m @PedroVolpato, I have a bachelor's degree in Computer Science
+- 👀 I’m interested in Cars and AWS.
+- 🌱 I’m currently learning Python, Linux, AWS.
 - 📫 Socials
   www.linkedin.com/in/pedrovolpato1  https://www.instagram.com/pedro.volpato/
 <!---
