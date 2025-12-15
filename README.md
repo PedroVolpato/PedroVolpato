@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PedroVolpato, I have a bachelor's degree in Computer Science
-- 👀 I’m interested in Cars and AWS.
+- 👀 I’m interested in Hardware and AWS.
 - 🌱 I’m currently learning Python, Linux, AWS.
 - 📫 Socials
   www.linkedin.com/in/pedrovolpato1  https://www.instagram.com/pedro.volpato/
